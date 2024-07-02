@@ -4,7 +4,7 @@
 
 - **Feature:** Added user authentication functionality.
 - **Fix:** Resolved issue with data validation.
-- **Documentation:** Updated README.md with deployment instructions.
+- **Documentation:** Updated README.md with deployment instructions
 
 ## Version 1.0.1 (2024-07-03)
 
